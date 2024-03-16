@@ -66,5 +66,4 @@ For example, to edit a specific post, the API endpoint could be
 - Get all the posts of a user
 'GET /user/posts'
 - Submit a search on posts
-'GET /search/:postId'
 'GET /search/posts' ?
